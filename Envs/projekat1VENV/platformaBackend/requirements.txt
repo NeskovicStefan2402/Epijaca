@@ -19,7 +19,7 @@ marshmallow==3.3.0
 matplotlib==3.1.2
 mysql-connector==2.2.9
 mysql-connector-python==8.0.19
-numpy==1.18.1
+numpy==1.22.0
 opencv-python==4.1.2.30
 Pillow==7.0.0
 protobuf==3.6.1
